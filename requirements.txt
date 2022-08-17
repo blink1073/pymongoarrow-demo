@@ -1,0 +1,8 @@
+s3fs
+bokeh
+distributed
+ipywidgets
+dask-mongo
+pymongoarrow
+pymongo
+notebook==7.0.0a4
