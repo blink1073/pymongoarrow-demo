@@ -6,3 +6,5 @@ dask-mongo
 pymongoarrow
 pymongo
 notebook==7.0.0a4
+pandas
+pyarrow
